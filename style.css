@@ -1,5 +1,6 @@
 h1 {
   color: red;
+  font-size: 135px;
   background-color: indigo;
 }
 .goodbye{
@@ -7,4 +8,60 @@ h1 {
 }
 #hello {
   color: green;
+}
+.yellow {
+color: yellow;
+}
+.red-background {
+  color: salmon;
+}
+p {
+  color: blue;
+}
+strong {
+  background-color: yellow;
+}
+em {
+  color: red;
+}
+#example {
+ background-color: green;
+}
+/* New example*/
+h2 {
+  color: red;
+}
+aside {
+  color: blue;
+}
+header {
+  color: goldenrod;
+}
+em {
+  color: rgb(128, 43, 226);
+}
+h3 {
+  color: darkred;
+}
+footer {
+  color: lightcoral;
+}
+mark {
+  color: fuchsia;
+}
+.example-1 {
+  background-color: maroon;
+}
+.example-2 {
+  color: black;
+  background-color: violet;
+}
+.example-3 {
+background-color: aqua;
+}
+.example-4 {
+  background-color: rgb(255, 80, 138);
+}
+.example-5 {
+  background-color: rgb(106, 151, 235);
 }
